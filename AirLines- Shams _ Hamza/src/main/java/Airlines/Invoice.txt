@@ -1,0 +1,29 @@
+Date of ticket creation: 11:20   01/17/2023
+Duration of flight 2:47
+Gate Number: 4
+Depart Location: Toronto Major Airport
+Arrival Location: Manitoba Major Airport
+Reference Number: 17510
+Boarding Time:  01/18/2023 | 10:19 EST
+Departure Time:  01/18/2023 | 11:19 EST
+Arrival Time:  01/18/2023 | 14:06 EST
+Seat Number(s): | 156 | 74
+
+First Name: hamza
+Last Name: ajmal
+Passport: ha123456
+Ticket: TL-11203
+Luggage: 1
+Cost of Bag(s): $32.50
+---------------
+
+First Name: shams
+Last Name: haroon
+Passport: sh987654
+Ticket: MO-81427
+Luggage: 1
+Cost of Bag(s): $90.50
+---------------
+
+
+total flight price (w/ tax): $884.45
